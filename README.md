@@ -1,4 +1,6 @@
-# README
+<h1 align="center">🧑‍🎨 Platzi Theme 🧑‍💻</h1>
+<img align="center" src="./demo.jpg"/>
+
 ## This is the README for your extension "platzi-theme"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
