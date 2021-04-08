@@ -9,6 +9,13 @@
     "categories": [
         "Themes"
     ],
+    "contributors": [
+        {
+            "email": "royjuni3431@gmail.com",
+            "name": "Royer Guerero",
+            "url": "https://royerguerrero.vercel.app/"
+        }
+    ],
     "contributes": {
         "themes": [
             {
